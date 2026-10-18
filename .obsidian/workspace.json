@@ -25,12 +25,14 @@
             "id": "a189b648e67f4f91",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-10-19 04.20.53.excalidraw.md"
+                "file": "Quran Recitation/README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-10-19 04.20.53.excalidraw"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ],
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2026-10-19 04.20.53.excalidraw.md",
+                "file": "Quran Recitation/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2026-10-19 04.20.53.excalidraw.md",
+                "file": "Quran Recitation/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -174,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2026-10-19 04.20.53.excalidraw.md",
+                "file": "Quran Recitation/README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,7 +208,8 @@
   "active": "a189b648e67f4f91",
   "lastOpenFiles": [
     "README.md",
-    "Excalidraw/Drawing 2026-10-19 04.20.53.excalidraw.md",
+    "Quran Recitation/README.md",
+    "Quran Recitation/lec_01.md",
     "Excalidraw",
     "Quran Recitation"
   ]
