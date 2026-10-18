@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "53a4610d87c3eae6",
+        "id": "c70e6ec7eb5380fa",
         "type": "tabs",
         "children": [
           {
-            "id": "ba51cb2715b06ab5",
+            "id": "e6fc0fad937c4a7b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Quran Recitation/lec_01.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "lec_01"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -189,8 +187,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba51cb2715b06ab5",
+  "active": "e6fc0fad937c4a7b",
   "lastOpenFiles": [
+    "Quran Recitation/lec_01.md",
     "Pasted image 20261019044332.png",
     "Quran Recitation/img/Pasted image 20261019044952.png",
     "Quran Recitation/img/Pasted image 20261019044752.png",
@@ -198,12 +197,10 @@
     "Quran Recitation/img/Pasted image 20261019044332.png",
     "Quran Recitation/img/Pasted image 20261019042806.png",
     "Pasted image 20261019042806.png",
-    "Quran Recitation/lec_01.md",
     "Pasted image 20261019044952.png",
     "Pasted image 20261019044752.png",
     "Pasted image 20261019044646.png",
     "Quran Recitation/img",
-    "Quran Recitation/img/Pasted image 20261019042715.png",
     "README.md",
     "Quran Recitation/README.md",
     "Arabic Learning",
