@@ -11,13 +11,28 @@
             "id": "e6fc0fad937c4a7b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Arabic Learning/lec_01.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "lec_01"
+            }
+          },
+          {
+            "id": "de01e9f37422a340",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/lec_02.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "lec_02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6fc0fad937c4a7b",
+  "active": "c6343d5f602d08c3",
   "lastOpenFiles": [
+    "Arabic Learning/lec_01.md",
+    "Excalidraw/lec_02.md",
+    "Excalidraw",
+    "Arabic Learning/lec_01 1.md",
     "Quran Recitation/lec_01.md",
     "Pasted image 20261019044332.png",
     "Quran Recitation/img/Pasted image 20261019044952.png",
@@ -203,7 +222,6 @@
     "README.md",
     "Quran Recitation/README.md",
     "Arabic Learning",
-    "Excalidraw",
     "Quran Recitation"
   ]
 }
