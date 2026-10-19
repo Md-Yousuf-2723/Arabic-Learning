@@ -25,7 +25,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/lec_02.md"
+                "file": "Arabic Learning/lec_02.md"
               },
               "icon": "excalidraw-icon",
               "title": "lec_02"
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f660c9eb36f89d0c",
@@ -201,10 +202,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6343d5f602d08c3",
+  "active": "de01e9f37422a340",
   "lastOpenFiles": [
     "Arabic Learning/lec_01.md",
-    "Excalidraw/lec_02.md",
+    "Arabic Learning/lec_02.md",
     "Excalidraw",
     "Arabic Learning/lec_01 1.md",
     "Quran Recitation/lec_01.md",
