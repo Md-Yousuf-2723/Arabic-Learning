@@ -30,9 +30,21 @@
               "icon": "excalidraw-icon",
               "title": "lec_02"
             }
+          },
+          {
+            "id": "2dd249abaa44297e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Arabic Learning/lec_03.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "lec_03"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f660c9eb36f89d0c",
@@ -202,11 +213,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de01e9f37422a340",
+  "active": "c6343d5f602d08c3",
   "lastOpenFiles": [
-    "Arabic Learning/lec_01.md",
     "Arabic Learning/lec_02.md",
+    "Arabic Learning/lec_03.md",
     "Excalidraw",
+    "Arabic Learning/lec_01.md",
     "Arabic Learning/lec_01 1.md",
     "Quran Recitation/lec_01.md",
     "Pasted image 20261019044332.png",
