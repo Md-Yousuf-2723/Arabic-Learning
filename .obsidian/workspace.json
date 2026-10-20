@@ -31,8 +31,7 @@
               "title": "lec_02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6343d5f602d08c3",
+  "active": "e6fc0fad937c4a7b",
   "lastOpenFiles": [
     "Arabic Learning/lec_02.md",
     "Arabic Learning/lec_03.md",
