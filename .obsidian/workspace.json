@@ -30,21 +30,9 @@
               "icon": "excalidraw-icon",
               "title": "lec_02"
             }
-          },
-          {
-            "id": "2dd249abaa44297e",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arabic Learning/lec_03.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "lec_03"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
