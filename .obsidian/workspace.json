@@ -31,7 +31,8 @@
               "title": "lec_02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,12 +201,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6fc0fad937c4a7b",
+  "active": "de01e9f37422a340",
   "lastOpenFiles": [
+    "Arabic Learning/lec_01.md",
     "Arabic Learning/lec_02.md",
     "Arabic Learning/lec_03.md",
     "Excalidraw",
-    "Arabic Learning/lec_01.md",
     "Arabic Learning/lec_01 1.md",
     "Quran Recitation/lec_01.md",
     "Pasted image 20261019044332.png",
