@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6fc0fad937c4a7b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arabic Learning/lec_01.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "lec_01"
-            }
-          },
-          {
             "id": "de01e9f37422a340",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Arabic Learning/lec_02.md"
+                "file": "Arabic Learning/lec_03.md"
               },
               "icon": "excalidraw-icon",
-              "title": "lec_02"
+              "title": "lec_03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f660c9eb36f89d0c",
@@ -203,8 +191,8 @@
   },
   "active": "de01e9f37422a340",
   "lastOpenFiles": [
-    "Arabic Learning/lec_01.md",
     "Arabic Learning/lec_02.md",
+    "Arabic Learning/lec_01.md",
     "Arabic Learning/lec_03.md",
     "Excalidraw",
     "Arabic Learning/lec_01 1.md",
