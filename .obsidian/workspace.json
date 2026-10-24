@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c70e6ec7eb5380fa",
+        "id": "9c05ee12d768d225",
         "type": "tabs",
         "children": [
           {
-            "id": "de01e9f37422a340",
+            "id": "3f7bc6108a9458e4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arabic Learning/lec_03.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "lec_03"
-            }
-          },
-          {
-            "id": "3b50c1e947d80bde",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Arabic Learning/lec_04.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "lec_04"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -202,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b50c1e947d80bde",
+  "active": "3f7bc6108a9458e4",
   "lastOpenFiles": [
-    "Arabic Learning/lec_03.md",
     "Arabic Learning/lec_04.md",
+    "Arabic Learning/lec_03.md",
     "Excalidraw",
     "Arabic Learning/lec_02.md",
     "Arabic Learning/lec_01.md",
